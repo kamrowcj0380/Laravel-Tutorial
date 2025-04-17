@@ -5,25 +5,31 @@ The design, including 'public/header.html' and 'public/CSS/style.css', are my ow
 
 ## Images of the app in fullscreen (when connected to a local MySQL database, which is not included in this repository).
 
-![Login_Screen_Large](https://github.com/user-attachments/assets/5b30c34a-d232-49ae-ad01-7c4584a0ff1f)
 ### The login screen
+![Login_Screen_Large](https://github.com/user-attachments/assets/5b30c34a-d232-49ae-ad01-7c4584a0ff1f)
 
-![User_Blog_Screen_Large](https://github.com/user-attachments/assets/c0801aad-330e-410b-b4bc-bff276c95e23)
+
 ### The user's blogs
+![User_Blog_Screen_Large](https://github.com/user-attachments/assets/c0801aad-330e-410b-b4bc-bff276c95e23)
 
-![Blog_Edit_Screen_Large](https://github.com/user-attachments/assets/aefb1d09-291e-4d9b-8eb0-910a0ef9cabd)
+
 ### Blog edit screen
+![Blog_Edit_Screen_Large](https://github.com/user-attachments/assets/aefb1d09-291e-4d9b-8eb0-910a0ef9cabd)
+
 
 ## Images of the app when condensed (as if on a phone) to display flexibility of the css.
 
-![Login_Screen_Small](https://github.com/user-attachments/assets/62549cb7-0f81-4966-b99a-4243fcf43437)
 ### The login screen
+![Login_Screen_Small](https://github.com/user-attachments/assets/62549cb7-0f81-4966-b99a-4243fcf43437)
 
-![User_Blog_Screen_Small](https://github.com/user-attachments/assets/fd52b13e-d401-4cba-99e2-140d65e254f3)
+
 ### The user's blogs
+![User_Blog_Screen_Small](https://github.com/user-attachments/assets/fd52b13e-d401-4cba-99e2-140d65e254f3)
 
-![Blog_Edit_Screen_Small](https://github.com/user-attachments/assets/87716897-6655-40f6-98c1-e2e38e440a53)
+
 ### Blog edit screen
+![Blog_Edit_Screen_Small](https://github.com/user-attachments/assets/87716897-6655-40f6-98c1-e2e38e440a53)
+
 
 
 Below is Laravel's generic README, which I am choosing to leave here.
