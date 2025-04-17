@@ -17,7 +17,7 @@ The design, including 'public/header.html' and 'public/CSS/style.css', are my ow
 ![Blog_Edit_Screen_Large](https://github.com/user-attachments/assets/aefb1d09-291e-4d9b-8eb0-910a0ef9cabd)
 
 
-## Images of the app when condensed (as if on a phone) to display flexibility of the css.
+## Images of the app when condensed (as if on a phone) to display flexibility in the css.
 
 ### The login screen
 ![Login_Screen_Small](https://github.com/user-attachments/assets/62549cb7-0f81-4966-b99a-4243fcf43437)
